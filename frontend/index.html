@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Air Quality Monitoring</title>
+
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+
+    <!-- Leaflet MarkerCluster CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+    <header>
+        <h1>Air Quality Monitoring Dashboard</h1>
+    </header>
+
+    <div class="search-container">
+        <input type="text" id="searchBox" placeholder="Enter city name">
+        <select id="pollutantFilter">
+            <option value="all">All Pollutants</option>
+            <option value="PM2.5">PM2.5</option>
+            <option value="PM10">PM10</option>
+            <option value="NO2">NO2</option>
+            <option value="SO2">SO2</option>
+            <option value="O3">O3</option>
+        </select>
+        <button onclick="searchCity()">Search</button>
+    </div>
+
+
+
+    <div id="map"></div>
+
+    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+
+    <!-- Leaflet MarkerCluster JS -->
+    <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+
+    <!-- App JS -->
+    <script src="app.js"></script>
+</body>
+
+</html>
