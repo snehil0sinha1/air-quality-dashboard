@@ -1,0 +1,1302 @@
+[
+  {
+    "id": 12,
+    "name": "SPARTAN - IIT Kanpur",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 26.519,
+      "longitude": 80.233
+    }
+  },
+  {
+    "id": 13,
+    "name": "Delhi Technological University, Delhi - CPCB",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 28.744,
+      "longitude": 77.12
+    }
+  },
+  {
+    "id": 15,
+    "name": "IGI Airport",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 28.56,
+      "longitude": 77.094
+    }
+  },
+  {
+    "id": 16,
+    "name": "Civil Lines",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 28.6787,
+      "longitude": 77.2262
+    }
+  },
+  {
+    "id": 17,
+    "name": "R K Puram, Delhi - DPCC",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 28.563262,
+      "longitude": 77.186937
+    }
+  },
+  {
+    "id": 50,
+    "name": "Punjabi Bagh, Delhi - DPCC",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 28.674045,
+      "longitude": 77.131023
+    }
+  },
+  {
+    "id": 103,
+    "name": "Income Tax Office, Delhi - CPCB",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 28.623499999999996,
+      "longitude": 77.2494
+    }
+  },
+  {
+    "id": 235,
+    "name": "Anand Vihar, New Delhi - DPCC",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 28.646835,
+      "longitude": 77.316032
+    }
+  },
+  {
+    "id": 236,
+    "name": "Mandir Marg, Delhi - DPCC",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 28.6341,
+      "longitude": 77.2005
+    }
+  },
+  {
+    "id": 286,
+    "name": "Collectorate - Gaya - BSPCB",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 24.7489694,
+      "longitude": 84.9438395
+    }
+  },
+  {
+    "id": 301,
+    "name": "Vikas Sadan, Gurugram - HSPCB",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 28.4501238,
+      "longitude": 77.0263051
+    }
+  },
+  {
+    "id": 346,
+    "name": "MD University, Rohtak - HSPCB",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 28.876028,
+      "longitude": 76.619464
+    }
+  },
+  {
+    "id": 354,
+    "name": "Lalbagh, DN Park",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 26.84578611,
+      "longitude": 80.93874444
+    }
+  },
+  {
+    "id": 378,
+    "name": "Alandur Bus Depot",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 12.99711389,
+      "longitude": 80.19151667
+    }
+  },
+  {
+    "id": 407,
+    "name": "Zoo Park, Hyderabad - TSPCB",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 17.349694,
+      "longitude": 78.451437
+    }
+  },
+  {
+    "id": 412,
+    "name": "Peenya, Bengaluru - KSPCB",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 13.0339,
+      "longitude": 77.51321111
+    }
+  },
+  {
+    "id": 431,
+    "name": "IHBAS, Delhi - CPCB",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 28.6821,
+      "longitude": 77.305
+    }
+  },
+  {
+    "id": 594,
+    "name": "BTM Layout, Bengaluru - KSPCB",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 12.912811110000002,
+      "longitude": 77.60921944
+    }
+  },
+  {
+    "id": 697,
+    "name": "Haldia, Haldia - WBPCB",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 22.06047,
+      "longitude": 88.109737
+    }
+  },
+  {
+    "id": 703,
+    "name": "Collectorate Jodhpur - RSPCB",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 26.2920639,
+      "longitude": 73.0379111111111
+    }
+  },
+  {
+    "id": 716,
+    "name": "Rabindra Bharati University, Kolkata - WBSPCB",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 22.627875,
+      "longitude": 88.3804
+    }
+  },
+  {
+    "id": 797,
+    "name": "City Railway Station - KSPCB",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 12.9773472,
+      "longitude": 77.5706972222222
+    }
+  },
+  {
+    "id": 854,
+    "name": "Chandrapur",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 19.95,
+      "longitude": 79.3
+    }
+  },
+  {
+    "id": 860,
+    "name": "Sanjay Palace, Agra - UPPCB",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 27.19865833,
+      "longitude": 78.00598056
+    }
+  },
+  {
+    "id": 910,
+    "name": "Victoria Memorial - WBSPCB",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 22.572646,
+      "longitude": 88.36389499999996
+    }
+  },
+  {
+    "id": 985,
+    "name": "Collectorate - Muzaffarpur - BSPCB",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 26.0762,
+      "longitude": 85.4115
+    }
+  },
+  {
+    "id": 2345,
+    "name": "VK Industrial Area Jaipur - RSPCB",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 26.9738778,
+      "longitude": 75.7738777777777
+    }
+  },
+  {
+    "id": 2456,
+    "name": "Talkatora District Industries Center, Lucknow - CPCB",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 26.83399722,
+      "longitude": 80.8917361
+    }
+  },
+  {
+    "id": 2459,
+    "name": "US Diplomatic Post: Hyderabad",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 17.443464,
+      "longitude": 78.47489
+    }
+  },
+  {
+    "id": 2460,
+    "name": "US Diplomatic Post: Kolkata",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 22.547142,
+      "longitude": 88.351048
+    }
+  },
+  {
+    "id": 2461,
+    "name": "US Diplomatic Post: Chennai",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 13.052371,
+      "longitude": 80.251932
+    }
+  },
+  {
+    "id": 2463,
+    "name": "Central School",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 26.85272778,
+      "longitude": 80.99632778
+    }
+  },
+  {
+    "id": 2503,
+    "name": "Shadipur, Delhi - CPCB",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 28.651699999999998,
+      "longitude": 77.1581
+    }
+  },
+  {
+    "id": 2549,
+    "name": "IIT",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 12.992513890000001,
+      "longitude": 80.23744722
+    }
+  },
+  {
+    "id": 2583,
+    "name": "Sector-6, Panchkula - HSPCB ",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 30.7057778,
+      "longitude": 76.85318056
+    }
+  },
+  {
+    "id": 2585,
+    "name": "AAQMS Karve Road Pune",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 18.497484,
+      "longitude": 73.81349
+    }
+  },
+  {
+    "id": 2586,
+    "name": "Manali, Chennai - CPCB",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 13.164544,
+      "longitude": 80.26285
+    }
+  },
+  {
+    "id": 2587,
+    "name": "Sector16A, Faridabad - HSPCB",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 28.410122219999998,
+      "longitude": 77.313775
+    }
+  },
+  {
+    "id": 2589,
+    "name": "SaneguravaHalli - KSPCB",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 12.9916694,
+      "longitude": 77.5458305555555
+    }
+  },
+  {
+    "id": 2591,
+    "name": "Ardhali Bazar",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 25.35055556,
+      "longitude": 82.97833333
+    }
+  },
+  {
+    "id": 2592,
+    "name": "BWSSB Kadabesanahalli, Bengaluru - KSPCB",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 12.93890556,
+      "longitude": 77.69727222
+    }
+  },
+  {
+    "id": 2593,
+    "name": "IGSC Planetarium Complex - Patna - BSPCB",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 25.3636,
+      "longitude": 85.0755
+    }
+  },
+  {
+    "id": 2594,
+    "name": "Sanathnagar, Hyderabad - TSPCB",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 17.42329722,
+      "longitude": 78.47469722
+    }
+  },
+  {
+    "id": 2595,
+    "name": "Nehru Nagar",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 26.470308800000005,
+      "longitude": 80.3251749
+    }
+  },
+  {
+    "id": 2596,
+    "name": "Solapur, Solapur - MPCB",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 17.6599188,
+      "longitude": 75.9063906
+    }
+  },
+  {
+    "id": 2597,
+    "name": "US Diplomatic Post: New Delhi",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 28.598096,
+      "longitude": 77.189066
+    }
+  },
+  {
+    "id": 2598,
+    "name": "Navi Mumbai Municipal Corporation Airoli",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 19.1494,
+      "longitude": 72.9986
+    }
+  },
+  {
+    "id": 5404,
+    "name": "Pusa, Delhi - IMD",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 28.639645,
+      "longitude": 77.146263
+    }
+  },
+  {
+    "id": 5408,
+    "name": "Secretariat, Amaravati - APPCB",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 16.5150833,
+      "longitude": 80.5181667
+    }
+  },
+  {
+    "id": 5443,
+    "name": "Mahakaleshwar Temple, Ujjain - MPPCB",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 23.182719,
+      "longitude": 75.768218
+    }
+  },
+  {
+    "id": 5505,
+    "name": "Birla Staff colony, Satna - MPPCB",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 24.5908256,
+      "longitude": 80.8574279
+    }
+  },
+  {
+    "id": 5509,
+    "name": "Anand Vihar, Delhi - DPCC",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 28.647622000000002,
+      "longitude": 77.315809
+    }
+  },
+  {
+    "id": 5540,
+    "name": "Punjabi Bagh, Delhi - DPCC",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 28.6670856,
+      "longitude": 77.1301247
+    }
+  },
+  {
+    "id": 5541,
+    "name": "Burari Crossing, New Delhi - IMD",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 28.7256504,
+      "longitude": 77.2011573
+    }
+  },
+  {
+    "id": 5542,
+    "name": "Civil Line, Jalandhar - PPCB",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 31.321907,
+      "longitude": 75.578914
+    }
+  },
+  {
+    "id": 5544,
+    "name": "Model Town, Patiala - PPCB",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 30.349388,
+      "longitude": 76.366642
+    }
+  },
+  {
+    "id": 5546,
+    "name": "Tata Stadium - Jorapokhar - JSPCB",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 23.707909,
+      "longitude": 86.41467
+    }
+  },
+  {
+    "id": 5547,
+    "name": "BWSSB Kadabesanahalli, Bengaluru - CPCB",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 12.9352049,
+      "longitude": 77.6814488
+    }
+  },
+  {
+    "id": 5548,
+    "name": "BTM Layout, Bengaluru - CPCB",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 12.9135218,
+      "longitude": 77.5950804
+    }
+  },
+  {
+    "id": 5551,
+    "name": "Golden Temple, Amritsar - PPCB",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 31.62,
+      "longitude": 74.876512
+    }
+  },
+  {
+    "id": 5552,
+    "name": "MD University, Rohtak - HSPCB",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 28.870083,
+      "longitude": 76.6205
+    }
+  },
+  {
+    "id": 5558,
+    "name": "Alandur Bus Depot, Chennai - CPCB",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 12.909916100000002,
+      "longitude": 80.1076538
+    }
+  },
+  {
+    "id": 5559,
+    "name": "Collectorate, Gaya - BSPCB",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 24.7955,
+      "longitude": 84.9994
+    }
+  },
+  {
+    "id": 5565,
+    "name": "MIDC Khutala, Chandrapur - MPCB",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 19.9775302,
+      "longitude": 79.2337086
+    }
+  },
+  {
+    "id": 5566,
+    "name": "Talcher Coalfields,Talcher - OSPCB",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 20.9360711,
+      "longitude": 85.1707021
+    }
+  },
+  {
+    "id": 5569,
+    "name": "Punjab Agricultural University, Ludhiana - PPCB",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 30.9028,
+      "longitude": 75.8086
+    }
+  },
+  {
+    "id": 5570,
+    "name": "Aya Nagar, New Delhi - IMD",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 28.474261,
+      "longitude": 77.131606
+    }
+  },
+  {
+    "id": 5574,
+    "name": "City Railway Station, Bengaluru - KSPCB",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 12.9756843,
+      "longitude": 77.5660749
+    }
+  },
+  {
+    "id": 5576,
+    "name": "Moti Doongri, Alwar - RSPCB",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 27.554793,
+      "longitude": 76.611536
+    }
+  },
+  {
+    "id": 5581,
+    "name": "Pusa, New Delhi - IMD",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 28.610304,
+      "longitude": 77.0996943
+    }
+  },
+  {
+    "id": 5585,
+    "name": "Ashok Nagar, Udaipur - RSPCB",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 24.5886166,
+      "longitude": 73.6321397
+    }
+  },
+  {
+    "id": 5586,
+    "name": "Sirifort, Delhi - CPCB",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 28.5504249,
+      "longitude": 77.2159377
+    }
+  },
+  {
+    "id": 5587,
+    "name": "Collectorate, Jodhpur - RSPCB",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 26.268249,
+      "longitude": 73.0193853
+    }
+  },
+  {
+    "id": 5588,
+    "name": "RIICO Ind. Area III, Bhiwadi - RSPCB",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 28.194909,
+      "longitude": 76.862296
+    }
+  },
+  {
+    "id": 5590,
+    "name": "Ardhali Bazar, Varanasi - UPPCB",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 25.3505986,
+      "longitude": 82.9083074
+    }
+  },
+  {
+    "id": 5592,
+    "name": "Gangapur Road, Nashik - MPCB",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 20.0073285,
+      "longitude": 73.7762427
+    }
+  },
+  {
+    "id": 5593,
+    "name": "Pimpleshwar Mandir, Thane - MPCB",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 19.192056,
+      "longitude": 72.9585188
+    }
+  },
+  {
+    "id": 5594,
+    "name": "Muzaffarpur Collectorate, Muzaffarpur - BSPCB",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 26.1209,
+      "longitude": 85.3647
+    }
+  },
+  {
+    "id": 5596,
+    "name": "Secretariat, Amaravati - APPCB",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 16.5150833,
+      "longitude": 80.5181667
+    }
+  },
+  {
+    "id": 5598,
+    "name": "Sector - 125, Noida, UP - UPPCB",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 28.5447608,
+      "longitude": 77.3231257
+    }
+  },
+  {
+    "id": 5599,
+    "name": "Bollaram Industrial Area, Hyderabad - TSPCB",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 17.540891,
+      "longitude": 78.358528
+    }
+  },
+  {
+    "id": 5601,
+    "name": "Lajpat Nagar, Moradabad - UPPCB",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 28.825341,
+      "longitude": 78.7213009
+    }
+  },
+  {
+    "id": 5602,
+    "name": "Asansol Court Area, Asansol - WBPCB",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 23.685297,
+      "longitude": 86.945968
+    }
+  },
+  {
+    "id": 5603,
+    "name": "Sector-2 Industrial Area, Pithampur - MPPCB",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 22.624758,
+      "longitude": 75.675238
+    }
+  },
+  {
+    "id": 5604,
+    "name": "Nishant Ganj, Lucknow - UPPCB",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 26.871428,
+      "longitude": 80.957145
+    }
+  },
+  {
+    "id": 5607,
+    "name": "Peenya, Bengaluru - CPCB",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 13.0270199,
+      "longitude": 77.494094
+    }
+  },
+  {
+    "id": 5608,
+    "name": "GM Office, Brajrajnagar - OSPCB",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 21.8004996,
+      "longitude": 83.8396977
+    }
+  },
+  {
+    "id": 5609,
+    "name": "Anam Kala Kendram, Rajamahendravaram - APPCB",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 16.9872867,
+      "longitude": 81.7363176
+    }
+  },
+  {
+    "id": 5610,
+    "name": "North Campus, DU, Delhi - IMD",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 28.6573814,
+      "longitude": 77.1585447
+    }
+  },
+  {
+    "id": 5611,
+    "name": "Chandrapur, Chandrapur - MPCB",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 19.645324,
+      "longitude": 77.6345232
+    }
+  },
+  {
+    "id": 5612,
+    "name": "Shastri Nagar, Jaipur - RSPCB",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 26.9502929,
+      "longitude": 75.730943
+    }
+  },
+  {
+    "id": 5613,
+    "name": "ITO, New Delhi - CPCB",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 28.628624,
+      "longitude": 77.24106
+    }
+  },
+  {
+    "id": 5614,
+    "name": "Padmapukur, Howrah - WBPCB",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 22.5687319,
+      "longitude": 88.2797276
+    }
+  },
+  {
+    "id": 5615,
+    "name": "Sidhu Kanhu Indoor Stadium, Durgapur - WBPCB",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 23.5404352,
+      "longitude": 87.2892225
+    }
+  },
+  {
+    "id": 5616,
+    "name": "Sector - 62, Noida, UP - IMD",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 28.6245479,
+      "longitude": 77.3577104
+    }
+  },
+  {
+    "id": 5617,
+    "name": "Sector- 16A, Faridabad - HSPCB",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 28.4088421,
+      "longitude": 77.3099081
+    }
+  },
+  {
+    "id": 5619,
+    "name": "Vindhyachal STPS, Singrauli - MPPCB",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 24.10897,
+      "longitude": 82.64558
+    }
+  },
+  {
+    "id": 5621,
+    "name": "Opp GPO Civil Lines, Nagpur - MPCB",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 21.152875,
+      "longitude": 79.0517531
+    }
+  },
+  {
+    "id": 5622,
+    "name": "NSIT Dwarka, Delhi - CPCB",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 28.60909,
+      "longitude": 77.0325413
+    }
+  },
+  {
+    "id": 5623,
+    "name": "Central University, Hyderabad - TSPCB",
+    "country": {
+      "id": 9,
+      "code": "IN",
+      "name": "India"
+    },
+    "coordinates": {
+      "latitude": 17.460103,
+      "longitude": 78.334361
+    }
+  }
+]
